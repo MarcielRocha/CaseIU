@@ -7,7 +7,6 @@ aluno_id,nome,turma,escola_id
 "103,Carla Menezes,6¼ B;202"
 
 Ficou assim:
-O arquivo Alunos.csv original possui erro de formato de dados na última linha que exiguiu correção:
 aluno_id,nome,turma,escola_id
 101,Ana Ferreira,6¼ A,201
 102,Bruno Lima,6¼ A,201
